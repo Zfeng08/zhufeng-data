@@ -1,0 +1,41 @@
+name: fetch-trends
+
+on:
+  schedule:
+    - cron: "30 1 * * *" # 09:30（北京时间），跟在公开仓库 09:05 的采集之后
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-trends
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 抓取 + 翻译 + 累积历史
+        run: python scripts/fetch_trends.py
+
+      - name: 提交数据
+        run: |
+          git config user.name "zhufeng-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "无数据变更"
+          else
+            git commit -m "chore(data): 热榜 $(date -u +%F)"
+            git push
+          fi

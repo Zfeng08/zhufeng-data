@@ -1,0 +1,280 @@
+{
+  "repos": [
+    {
+      "full_name": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "stars": 33984,
+      "stars_today": 3209,
+      "language": "JavaScript",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 47465,
+      "stars_today": 2376,
+      "language": "Python",
+      "description_zh": "DeepTutor ：终身个性化辅导。https://deeptutor.info/。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 40193,
+      "stars_today": 2109,
+      "language": "CSS",
+      "description_zh": "Claude Code、Cursor、Codex的反AI味设计技能。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 92488,
+      "stars_today": 1831,
+      "language": "Python",
+      "description_zh": "VoiceStudio是完全本地的开源ElevenLabs替代方案-语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": 6592,
+      "stars_today": 1478,
+      "language": "—",
+      "description_zh": "我所有的列表 越狱",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": 91762,
+      "stars_today": 1471,
+      "language": "Rust",
+      "description_zh": "的设计词汇编码代理。以优雅大胆的方式引导，通过批评和审核进行评审，味在AI出货前抓住它。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "stars": 10729,
+      "stars_today": 1395,
+      "language": "—",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "YuJunZhiXue/dsh-purge",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "stars": 11928,
+      "stars_today": 1201,
+      "language": "JavaScript",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 307086,
+      "stars_today": 1096,
+      "language": "Shell",
+      "description_zh": "有效的Agentic技能框架和软件开发方法。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": 4689,
+      "stars_today": 1075,
+      "language": "TypeScript",
+      "description_zh": "轻量级的真实IDE中带有pi的Vibe代码，可根据您的工作方式自行定制—您需要的Vibe",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 291439,
+      "stars_today": 1059,
+      "language": "JavaScript",
+      "description_zh": "Agent线束性能优化系统。Claude Code、Codex、Opencode、Cursor等技能、本能、记忆、安全和研究优先开发。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": 2995,
+      "stars_today": 1053,
+      "language": "TypeScript",
+      "description_zh": "持久AI队友的本地优先桌面工作区。使用专用工作区、任务队列、文件共享、浏览器控制和Agent到Agent的协作运行Codex、Claude和Grok。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": 39882,
+      "stars_today": 1007,
+      "language": "TypeScript",
+      "description_zh": "📨 终极Agentic社交媒体调度工具 🤖",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 74467,
+      "stars_today": 934,
+      "language": "TypeScript",
+      "description_zh": "编写HTML。渲染视频。专为客服代表打造。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 7886,
+      "stars_today": 740,
+      "language": "TypeScript",
+      "description_zh": "算了吧开箱即用的开源AI Agent · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 117699,
+      "stars_today": 727,
+      "language": "Python",
+      "description_zh": "交易代理：多代理LLM金融交易框架",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "stars": 23111,
+      "stars_today": 711,
+      "language": "Python",
+      "description_zh": "Claude Code的通用SEO技能。26个子技能+ 19个子代理，涵盖技术SEO、E-E-A-T、SCHEMA、GEO/AEO、Agent就绪性（ Lighthouse Agentic浏览、WebMCP、llms.txt ）、反向链接、本地SEO、电子商务、国际SEO、Google API和PDF/Excel报告。9个实时SEO数据的可选扩展。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 29447,
+      "stars_today": 504,
+      "language": "Python",
+      "description_zh": "无限的OCR工作：迎接单次 长程解析时代。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 64512,
+      "stars_today": 498,
+      "language": "Python",
+      "description_zh": "从您的终端、应用程序、IDE或手机免费使用Claude Code、Codex、Antigravity、VSCode、Pi和OpenCode （以及其他6个线束） （ 1.3B+免费令牌） ，现在从浏览器使用本机浏览器会话（多哈尼斯+多模型） ，如OpenClaw （支持语音+ ToS友好）",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 100662,
+      "stars_today": 415,
+      "language": "Rust",
+      "description_zh": "π RuView将商用WiFi信号转化为实时空间智能、生命体征监测和存在检测--所有这些都无需一个像素的视频。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "stars": 49982,
+      "stars_today": 415,
+      "language": "TypeScript",
+      "description_zh": "Shannon是Web应用程序和API的AI pentester。它会分析您的源代码，识别攻击媒介，并在漏洞到达生产环境之前执行真正的漏洞利用来证明漏洞。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "stars": 143527,
+      "stars_today": 386,
+      "language": "Python",
+      "description_zh": "帮助您开始使用SDD或任何其他流程的工💫具包！",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "trymirai/uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
+      "stars": 2969,
+      "stars_today": 360,
+      "language": "Rust",
+      "description_zh": "人工智能模型的高性能推理引擎",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 111354,
+      "stars_today": 346,
+      "language": "JavaScript",
+      "description_zh": "AI编码代理的生产级工程技能。",
+      "streak": 1,
+      "is_new": true
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 103907,
+      "stars_today": 338,
+      "language": "TypeScript",
+      "description_zh": "每个Agent跨会话的持久上下文–捕获Agent在会话期间执行的所有操作，用AI压缩它，并将相关上下文注入到未来的会话中。适用于Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等",
+      "streak": 1,
+      "is_new": true
+    }
+  ],
+  "count": 25,
+  "tracking_days": 1,
+  "date": "2026-10-28",
+  "fetched_at": "2026-10-28T23:02:17+08:00"
+}
