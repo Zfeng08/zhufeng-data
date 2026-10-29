@@ -129,6 +129,136 @@
           "stars_today": 338
         }
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "repos": [
+        {
+          "full_name": "HKUDS/DeepTutor",
+          "stars": 48087,
+          "stars_today": 2371
+        },
+        {
+          "full_name": "elayadesign/ai-design-skills",
+          "stars": 11182,
+          "stars_today": 2139
+        },
+        {
+          "full_name": "Nutlope/hallmark",
+          "stars": 40782,
+          "stars_today": 2110
+        },
+        {
+          "full_name": "debpalash/VoiceStudio",
+          "stars": 93061,
+          "stars_today": 1793
+        },
+        {
+          "full_name": "hmjz100/LinkSwift",
+          "stars": 34853,
+          "stars_today": 1616
+        },
+        {
+          "full_name": "togg53192-cmd/jailbreaks",
+          "stars": 7181,
+          "stars_today": 1477
+        },
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 92794,
+          "stars_today": 1472
+        },
+        {
+          "full_name": "YuJunZhiXue/dsh-purge",
+          "stars": 12218,
+          "stars_today": 1128
+        },
+        {
+          "full_name": "obra/superpowers",
+          "stars": 307488,
+          "stars_today": 1095
+        },
+        {
+          "full_name": "JetBrains/thinkrail",
+          "stars": 5115,
+          "stars_today": 1068
+        },
+        {
+          "full_name": "nightly-labs/openbot",
+          "stars": 3289,
+          "stars_today": 1054
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 291796,
+          "stars_today": 999
+        },
+        {
+          "full_name": "gitroomhq/postiz-app",
+          "stars": 39975,
+          "stars_today": 893
+        },
+        {
+          "full_name": "heygen-com/hyperframes",
+          "stars": 74773,
+          "stars_today": 846
+        },
+        {
+          "full_name": "makecindy/cindy",
+          "stars": 8133,
+          "stars_today": 728
+        },
+        {
+          "full_name": "Leonxlnx/taste-skill",
+          "stars": 104532,
+          "stars_today": 709
+        },
+        {
+          "full_name": "TauricResearch/TradingAgents",
+          "stars": 117915,
+          "stars_today": 654
+        },
+        {
+          "full_name": "AgriciDaniel/claude-seo",
+          "stars": 23406,
+          "stars_today": 581
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "stars": 101088,
+          "stars_today": 557
+        },
+        {
+          "full_name": "KeygraphHQ/shannon",
+          "stars": 50165,
+          "stars_today": 476
+        },
+        {
+          "full_name": "baidu/Unlimited-OCR",
+          "stars": 29531,
+          "stars_today": 429
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "stars": 64655,
+          "stars_today": 400
+        },
+        {
+          "full_name": "github/spec-kit",
+          "stars": 143685,
+          "stars_today": 361
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 111481,
+          "stars_today": 347
+        },
+        {
+          "full_name": "thedotmack/claude-mem",
+          "stars": 104050,
+          "stars_today": 324
+        }
+      ]
     }
   ]
 }
