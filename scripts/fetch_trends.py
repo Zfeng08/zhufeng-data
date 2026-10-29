@@ -153,7 +153,10 @@ def translate_description(desc, terms, aliases):
     masked, term_map = protect(masked, terms)
     mapping.update(term_map)
     out = translate(masked)
-    return restore(out, mapping) if out else ""
+    if not out:
+        return ""
+    # 占位符两侧的空格会留在中文里（「的 反 AI 味 设计」），收掉中文之间的空白
+    return re.sub(r"(?<=[\u4e00-\u9fff])\s+(?=[\u4e00-\u9fff])", "", restore(out, mapping))
 
 
 # ---------- 抓取 ----------
