@@ -68,6 +68,19 @@ def protect(text, terms):
     return text, mapping
 
 
+def mask_aliases(text, aliases):
+    """别名同样换成占位符，还原成中文——否则预置的中文会被翻译引擎再翻一遍。"""
+    mapping = {}
+    for i, (en, zh) in enumerate(aliases):
+        pat = _term_pattern(en)
+        if not pat.search(text):
+            continue
+        token = f"ZZA{i}AZZ"
+        text = pat.sub(token, text)
+        mapping[token] = zh
+    return text, mapping
+
+
 def restore(text, mapping):
     for token, term in mapping.items():
         text = text.replace(token, term)
@@ -134,11 +147,12 @@ def needs_translation(text):
 
 
 def translate_description(desc, terms, aliases):
-    # 先把已知会被翻歪的说法换成中文，再保护专有名词，最后才翻译
-    for en, zh in aliases:
-        desc = re.sub(rf"(?<![A-Za-z0-9]){re.escape(en)}(?![A-Za-z0-9])", zh, desc, flags=re.I)
-    guarded, mapping = protect(desc, terms)
-    out = translate(guarded)
+    # 别名和专有名词都先换成 ASCII 占位符，翻译完再还原，
+    # 这样翻译引擎只会看到英文，不会把预置的中文再翻一遍。
+    masked, mapping = mask_aliases(desc, aliases)
+    masked, term_map = protect(masked, terms)
+    mapping.update(term_map)
+    out = translate(masked)
     return restore(out, mapping) if out else ""
 
 
