@@ -259,6 +259,136 @@
           "stars_today": 324
         }
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "repos": [
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 95979,
+          "stars_today": 2870
+        },
+        {
+          "full_name": "hmjz100/LinkSwift",
+          "stars": 36407,
+          "stars_today": 2058
+        },
+        {
+          "full_name": "HKUDS/DeepTutor",
+          "stars": 50889,
+          "stars_today": 1930
+        },
+        {
+          "full_name": "togg53192-cmd/jailbreaks",
+          "stars": 9612,
+          "stars_today": 1594
+        },
+        {
+          "full_name": "vectorize-io/hindsight",
+          "stars": 56315,
+          "stars_today": 1454
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 7735,
+          "stars_today": 1199
+        },
+        {
+          "full_name": "elayadesign/ai-design-skills",
+          "stars": 12516,
+          "stars_today": 1187
+        },
+        {
+          "full_name": "Leonxlnx/taste-skill",
+          "stars": 105798,
+          "stars_today": 1131
+        },
+        {
+          "full_name": "JetBrains/thinkrail",
+          "stars": 6215,
+          "stars_today": 1117
+        },
+        {
+          "full_name": "obra/superpowers",
+          "stars": 308886,
+          "stars_today": 1034
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 292908,
+          "stars_today": 987
+        },
+        {
+          "full_name": "YuJunZhiXue/dsh-purge",
+          "stars": 13362,
+          "stars_today": 954
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "stars": 101646,
+          "stars_today": 849
+        },
+        {
+          "full_name": "nightly-labs/openbot",
+          "stars": 4053,
+          "stars_today": 709
+        },
+        {
+          "full_name": "AgriciDaniel/claude-seo",
+          "stars": 24146,
+          "stars_today": 682
+        },
+        {
+          "full_name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 75634,
+          "stars_today": 443
+        },
+        {
+          "full_name": "macro-inc/macro",
+          "stars": 5665,
+          "stars_today": 379
+        },
+        {
+          "full_name": "Donchitos/Claude-Code-Game-Studios",
+          "stars": 29650,
+          "stars_today": 353
+        },
+        {
+          "full_name": "thedotmack/claude-mem",
+          "stars": 105098,
+          "stars_today": 336
+        },
+        {
+          "full_name": "github/spec-kit",
+          "stars": 143987,
+          "stars_today": 335
+        },
+        {
+          "full_name": "KeygraphHQ/shannon",
+          "stars": 50470,
+          "stars_today": 334
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 111812,
+          "stars_today": 305
+        },
+        {
+          "full_name": "clash-verge-rev/clash-verge-rev",
+          "stars": 155015,
+          "stars_today": 295
+        },
+        {
+          "full_name": "JuliusBrussee/caveman",
+          "stars": 116177,
+          "stars_today": 295
+        },
+        {
+          "full_name": "rlaope/oh-my-hermes",
+          "stars": 4893,
+          "stars_today": 267
+        }
+      ]
     }
   ]
 }
