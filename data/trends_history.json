@@ -389,6 +389,136 @@
           "stars_today": 267
         }
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "repos": [
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 97421,
+          "stars_today": 2300
+        },
+        {
+          "full_name": "HKUDS/DeepTutor",
+          "stars": 52025,
+          "stars_today": 2282
+        },
+        {
+          "full_name": "togg53192-cmd/jailbreaks",
+          "stars": 11560,
+          "stars_today": 2055
+        },
+        {
+          "full_name": "obra/superpowers",
+          "stars": 309589,
+          "stars_today": 1259
+        },
+        {
+          "full_name": "thedotmack/claude-mem",
+          "stars": 106718,
+          "stars_today": 1140
+        },
+        {
+          "full_name": "Renhuai123/ziwei-doushu",
+          "stars": 11599,
+          "stars_today": 1126
+        },
+        {
+          "full_name": "Orkas-AI/Orkas",
+          "stars": 5494,
+          "stars_today": 1004
+        },
+        {
+          "full_name": "pingdotgg/t3code",
+          "stars": 33089,
+          "stars_today": 930
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 8972,
+          "stars_today": 895
+        },
+        {
+          "full_name": "Leonxlnx/taste-skill",
+          "stars": 106502,
+          "stars_today": 885
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "stars": 307692,
+          "stars_today": 876
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 293547,
+          "stars_today": 802
+        },
+        {
+          "full_name": "JetBrains/thinkrail",
+          "stars": 6679,
+          "stars_today": 722
+        },
+        {
+          "full_name": "CopilotKit/OpenBot",
+          "stars": 8945,
+          "stars_today": 706
+        },
+        {
+          "full_name": "lightpanda-io/browser",
+          "stars": 38641,
+          "stars_today": 626
+        },
+        {
+          "full_name": "nightly-labs/openbot",
+          "stars": 4281,
+          "stars_today": 485
+        },
+        {
+          "full_name": "hmjz100/LinkSwift",
+          "stars": 36748,
+          "stars_today": 453
+        },
+        {
+          "full_name": "vectorize-io/hindsight",
+          "stars": 56739,
+          "stars_today": 411
+        },
+        {
+          "full_name": "JuliusBrussee/caveman",
+          "stars": 116388,
+          "stars_today": 296
+        },
+        {
+          "full_name": "anthropics/skills",
+          "stars": 185529,
+          "stars_today": 295
+        },
+        {
+          "full_name": "anomalyco/hex",
+          "stars": 1289,
+          "stars_today": 289
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 112045,
+          "stars_today": 279
+        },
+        {
+          "full_name": "MemPalace/mempalace",
+          "stars": 60171,
+          "stars_today": 258
+        },
+        {
+          "full_name": "ethanplusai/harvey",
+          "stars": 3529,
+          "stars_today": 244
+        },
+        {
+          "full_name": "KeygraphHQ/shannon",
+          "stars": 50621,
+          "stars_today": 225
+        }
+      ]
     }
   ]
 }
