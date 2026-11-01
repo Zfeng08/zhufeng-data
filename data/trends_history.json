@@ -519,6 +519,136 @@
           "stars_today": 225
         }
       ]
+    },
+    {
+      "date": "2026-11-01",
+      "repos": [
+        {
+          "full_name": "thedotmack/claude-mem",
+          "stars": 108234,
+          "stars_today": 1723
+        },
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 98607,
+          "stars_today": 1338
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 9938,
+          "stars_today": 1303
+        },
+        {
+          "full_name": "pingdotgg/t3code",
+          "stars": 36136,
+          "stars_today": 1148
+        },
+        {
+          "full_name": "Renhuai123/ziwei-doushu",
+          "stars": 12578,
+          "stars_today": 1092
+        },
+        {
+          "full_name": "Orkas-AI/Orkas",
+          "stars": 6980,
+          "stars_today": 1044
+        },
+        {
+          "full_name": "HKUDS/DeepTutor",
+          "stars": 53138,
+          "stars_today": 1034
+        },
+        {
+          "full_name": "lightpanda-io/browser",
+          "stars": 39445,
+          "stars_today": 929
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "stars": 308676,
+          "stars_today": 883
+        },
+        {
+          "full_name": "anthropics/skills",
+          "stars": 186031,
+          "stars_today": 754
+        },
+        {
+          "full_name": "Donchitos/Claude-Code-Game-Studios",
+          "stars": 31424,
+          "stars_today": 742
+        },
+        {
+          "full_name": "openai/codex",
+          "stars": 132599,
+          "stars_today": 731
+        },
+        {
+          "full_name": "stablyai/orca",
+          "stars": 111936,
+          "stars_today": 728
+        },
+        {
+          "full_name": "Leonxlnx/taste-skill",
+          "stars": 107257,
+          "stars_today": 694
+        },
+        {
+          "full_name": "obra/superpowers",
+          "stars": 310243,
+          "stars_today": 665
+        },
+        {
+          "full_name": "Graphify-Labs/graphify",
+          "stars": 140165,
+          "stars_today": 660
+        },
+        {
+          "full_name": "DuarteSantos8/openGym",
+          "stars": 18362,
+          "stars_today": 626
+        },
+        {
+          "full_name": "cjpais/Handy",
+          "stars": 35975,
+          "stars_today": 611
+        },
+        {
+          "full_name": "CopilotKit/OpenBot",
+          "stars": 9178,
+          "stars_today": 608
+        },
+        {
+          "full_name": "tashfeenahmed/freellmapi",
+          "stars": 45314,
+          "stars_today": 593
+        },
+        {
+          "full_name": "calesthio/OpenMontage",
+          "stars": 74106,
+          "stars_today": 583
+        },
+        {
+          "full_name": "DietrichGebert/ponytail",
+          "stars": 181693,
+          "stars_today": 578
+        },
+        {
+          "full_name": "vorssaint/vorssaint-utils",
+          "stars": 32084,
+          "stars_today": 501
+        },
+        {
+          "full_name": "paperclipai/paperclip",
+          "stars": 109621,
+          "stars_today": 401
+        },
+        {
+          "full_name": "bregman-arie/devops-exercises",
+          "stars": 86164,
+          "stars_today": 342
+        }
+      ]
     }
   ]
 }
