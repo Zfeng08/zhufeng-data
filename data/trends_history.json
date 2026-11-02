@@ -649,6 +649,136 @@
           "stars_today": 342
         }
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "repos": [
+        {
+          "full_name": "pingdotgg/t3code",
+          "stars": 38962,
+          "stars_today": 3094
+        },
+        {
+          "full_name": "ifixai-ai/iFixAi",
+          "stars": 42772,
+          "stars_today": 1584
+        },
+        {
+          "full_name": "thedotmack/claude-mem",
+          "stars": 109916,
+          "stars_today": 1526
+        },
+        {
+          "full_name": "patchy631/ai-engineering-hub",
+          "stars": 40649,
+          "stars_today": 1191
+        },
+        {
+          "full_name": "anomalyco/hex",
+          "stars": 3649,
+          "stars_today": 1179
+        },
+        {
+          "full_name": "Orkas-AI/Orkas",
+          "stars": 7685,
+          "stars_today": 1146
+        },
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 99746,
+          "stars_today": 1140
+        },
+        {
+          "full_name": "Donchitos/Claude-Code-Game-Studios",
+          "stars": 32769,
+          "stars_today": 967
+        },
+        {
+          "full_name": "Renhuai123/ziwei-doushu",
+          "stars": 13637,
+          "stars_today": 941
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 10876,
+          "stars_today": 922
+        },
+        {
+          "full_name": "D4Vinci/Scrapling",
+          "stars": 91984,
+          "stars_today": 892
+        },
+        {
+          "full_name": "lightpanda-io/browser",
+          "stars": 40575,
+          "stars_today": 825
+        },
+        {
+          "full_name": "Leonxlnx/taste-skill",
+          "stars": 108105,
+          "stars_today": 757
+        },
+        {
+          "full_name": "togg53192-cmd/jailbreaks",
+          "stars": 13263,
+          "stars_today": 726
+        },
+        {
+          "full_name": "shiyu-coder/Kronos",
+          "stars": 45638,
+          "stars_today": 630
+        },
+        {
+          "full_name": "bregman-arie/devops-exercises",
+          "stars": 86367,
+          "stars_today": 629
+        },
+        {
+          "full_name": "paperclipai/paperclip",
+          "stars": 110026,
+          "stars_today": 507
+        },
+        {
+          "full_name": "calesthio/OpenMontage",
+          "stars": 74599,
+          "stars_today": 448
+        },
+        {
+          "full_name": "beenuar/AiSOC",
+          "stars": 6454,
+          "stars_today": 446
+        },
+        {
+          "full_name": "anthropics/skills",
+          "stars": 186498,
+          "stars_today": 431
+        },
+        {
+          "full_name": "jub0t/Concat",
+          "stars": 13652,
+          "stars_today": 416
+        },
+        {
+          "full_name": "cjpais/Handy",
+          "stars": 36881,
+          "stars_today": 339
+        },
+        {
+          "full_name": "leepokai/Codync",
+          "stars": 1649,
+          "stars_today": 325
+        },
+        {
+          "full_name": "public-apis/public-apis",
+          "stars": 495089,
+          "stars_today": 324
+        },
+        {
+          "full_name": "DuarteSantos8/openGym",
+          "stars": 18737,
+          "stars_today": 317
+        }
+      ]
     }
   ]
 }
