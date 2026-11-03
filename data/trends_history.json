@@ -779,6 +779,136 @@
           "stars_today": 317
         }
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "repos": [
+        {
+          "full_name": "pingdotgg/t3code",
+          "stars": 42680,
+          "stars_today": 3229
+        },
+        {
+          "full_name": "vercel-labs/agent-desktop",
+          "stars": 11059,
+          "stars_today": 2275
+        },
+        {
+          "full_name": "thedotmack/claude-mem",
+          "stars": 111124,
+          "stars_today": 1803
+        },
+        {
+          "full_name": "Donchitos/Claude-Code-Game-Studios",
+          "stars": 33968,
+          "stars_today": 1379
+        },
+        {
+          "full_name": "public-apis/public-apis",
+          "stars": 495657,
+          "stars_today": 1311
+        },
+        {
+          "full_name": "anomalyco/hex",
+          "stars": 4158,
+          "stars_today": 1134
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "stars": 310608,
+          "stars_today": 858
+        },
+        {
+          "full_name": "shiyu-coder/Kronos",
+          "stars": 46148,
+          "stars_today": 857
+        },
+        {
+          "full_name": "cjpais/Handy",
+          "stars": 37224,
+          "stars_today": 852
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 295946,
+          "stars_today": 849
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 11458,
+          "stars_today": 823
+        },
+        {
+          "full_name": "DeanChensj/jiangshan-map",
+          "stars": 3704,
+          "stars_today": 789
+        },
+        {
+          "full_name": "Renhuai123/ziwei-doushu",
+          "stars": 14411,
+          "stars_today": 751
+        },
+        {
+          "full_name": "D4Vinci/Scrapling",
+          "stars": 93486,
+          "stars_today": 706
+        },
+        {
+          "full_name": "calesthio/OpenMontage",
+          "stars": 75549,
+          "stars_today": 693
+        },
+        {
+          "full_name": "JustVugg/colibri",
+          "stars": 46813,
+          "stars_today": 675
+        },
+        {
+          "full_name": "beenuar/AiSOC",
+          "stars": 6815,
+          "stars_today": 659
+        },
+        {
+          "full_name": "FlashML-org/FreeToken",
+          "stars": 16326,
+          "stars_today": 653
+        },
+        {
+          "full_name": "Orkas-AI/Orkas",
+          "stars": 8642,
+          "stars_today": 600
+        },
+        {
+          "full_name": "github/spec-kit",
+          "stars": 145959,
+          "stars_today": 540
+        },
+        {
+          "full_name": "hyprwm/Hyprland",
+          "stars": 40113,
+          "stars_today": 509
+        },
+        {
+          "full_name": "p-e-w/heretic",
+          "stars": 38327,
+          "stars_today": 420
+        },
+        {
+          "full_name": "kornia/kornia",
+          "stars": 12251,
+          "stars_today": 412
+        },
+        {
+          "full_name": "paperclipai/paperclip",
+          "stars": 110612,
+          "stars_today": 412
+        },
+        {
+          "full_name": "cheaper-inference/OmniRoute",
+          "stars": 84067,
+          "stars_today": 402
+        }
+      ]
     }
   ]
 }
