@@ -909,6 +909,136 @@
           "stars_today": 402
         }
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "repos": [
+        {
+          "full_name": "vercel-labs/agent-desktop",
+          "stars": 13527,
+          "stars_today": 3791
+        },
+        {
+          "full_name": "pingdotgg/t3code",
+          "stars": 45020,
+          "stars_today": 3173
+        },
+        {
+          "full_name": "D4Vinci/Scrapling",
+          "stars": 95400,
+          "stars_today": 1658
+        },
+        {
+          "full_name": "Donchitos/Claude-Code-Game-Studios",
+          "stars": 34960,
+          "stars_today": 1182
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "stars": 311862,
+          "stars_today": 1164
+        },
+        {
+          "full_name": "thedotmack/claude-mem",
+          "stars": 112244,
+          "stars_today": 1139
+        },
+        {
+          "full_name": "calesthio/OpenMontage",
+          "stars": 76135,
+          "stars_today": 814
+        },
+        {
+          "full_name": "JustVugg/colibri",
+          "stars": 47439,
+          "stars_today": 802
+        },
+        {
+          "full_name": "p-e-w/heretic",
+          "stars": 39032,
+          "stars_today": 701
+        },
+        {
+          "full_name": "tashfeenahmed/freellmapi",
+          "stars": 47226,
+          "stars_today": 688
+        },
+        {
+          "full_name": "FlashML-org/FreeToken",
+          "stars": 16540,
+          "stars_today": 608
+        },
+        {
+          "full_name": "shiyu-coder/Kronos",
+          "stars": 46640,
+          "stars_today": 503
+        },
+        {
+          "full_name": "floci-io/floci",
+          "stars": 29083,
+          "stars_today": 482
+        },
+        {
+          "full_name": "karpathy/nanochat",
+          "stars": 60222,
+          "stars_today": 479
+        },
+        {
+          "full_name": "max-sixty/worktrunk",
+          "stars": 10679,
+          "stars_today": 438
+        },
+        {
+          "full_name": "public-apis/public-apis",
+          "stars": 495935,
+          "stars_today": 419
+        },
+        {
+          "full_name": "anomalyco/hex",
+          "stars": 4783,
+          "stars_today": 410
+        },
+        {
+          "full_name": "blader/humanizer",
+          "stars": 64546,
+          "stars_today": 407
+        },
+        {
+          "full_name": "DeanChensj/jiangshan-map",
+          "stars": 3946,
+          "stars_today": 354
+        },
+        {
+          "full_name": "herdrdev/herdr",
+          "stars": 47954,
+          "stars_today": 295
+        },
+        {
+          "full_name": "kornia/kornia",
+          "stars": 12320,
+          "stars_today": 272
+        },
+        {
+          "full_name": "JuliusBrussee/caveman",
+          "stars": 117315,
+          "stars_today": 266
+        },
+        {
+          "full_name": "cjpais/Handy",
+          "stars": 37407,
+          "stars_today": 257
+        },
+        {
+          "full_name": "lexmount/moli",
+          "stars": 22512,
+          "stars_today": 229
+        },
+        {
+          "full_name": "Usagi-org/ai-goofish-monitor",
+          "stars": 16854,
+          "stars_today": 228
+        }
+      ]
     }
   ]
 }
