@@ -1169,6 +1169,136 @@
           "stars_today": 158
         }
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "repos": [
+        {
+          "full_name": "NVIDIA/auto-ontology",
+          "stars": 7997,
+          "stars_today": 2679
+        },
+        {
+          "full_name": "vercel-labs/agent-desktop",
+          "stars": 17434,
+          "stars_today": 2173
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "stars": 315841,
+          "stars_today": 2071
+        },
+        {
+          "full_name": "pingdotgg/t3code",
+          "stars": 48722,
+          "stars_today": 1879
+        },
+        {
+          "full_name": "D4Vinci/Scrapling",
+          "stars": 98407,
+          "stars_today": 1655
+        },
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 104244,
+          "stars_today": 1280
+        },
+        {
+          "full_name": "HunYiSage/dsh-purge",
+          "stars": 19553,
+          "stars_today": 1081
+        },
+        {
+          "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+          "stars": 7513,
+          "stars_today": 984
+        },
+        {
+          "full_name": "harry0703/MoneyPrinterTurbo",
+          "stars": 139976,
+          "stars_today": 974
+        },
+        {
+          "full_name": "floci-io/floci",
+          "stars": 30641,
+          "stars_today": 779
+        },
+        {
+          "full_name": "github/spec-kit",
+          "stars": 148011,
+          "stars_today": 674
+        },
+        {
+          "full_name": "scenario-labs/skills",
+          "stars": 3271,
+          "stars_today": 667
+        },
+        {
+          "full_name": "garrytan/gstack",
+          "stars": 140200,
+          "stars_today": 612
+        },
+        {
+          "full_name": "max-sixty/worktrunk",
+          "stars": 11672,
+          "stars_today": 546
+        },
+        {
+          "full_name": "The-PR-Agent/pr-agent",
+          "stars": 15164,
+          "stars_today": 442
+        },
+        {
+          "full_name": "crmne/zapfast",
+          "stars": 3171,
+          "stars_today": 296
+        },
+        {
+          "full_name": "longbridge/gpui-kit",
+          "stars": 19510,
+          "stars_today": 285
+        },
+        {
+          "full_name": "clash-verge-rev/clash-verge-rev",
+          "stars": 156637,
+          "stars_today": 246
+        },
+        {
+          "full_name": "Usagi-org/ai-goofish-monitor",
+          "stars": 18012,
+          "stars_today": 240
+        },
+        {
+          "full_name": "microsoft/VibeVoice",
+          "stars": 56270,
+          "stars_today": 223
+        },
+        {
+          "full_name": "liguobao/ds-harness-remote",
+          "stars": 2006,
+          "stars_today": 215
+        },
+        {
+          "full_name": "tembo/voxl",
+          "stars": 1251,
+          "stars_today": 214
+        },
+        {
+          "full_name": "google/skills",
+          "stars": 22545,
+          "stars_today": 211
+        },
+        {
+          "full_name": "derv82/wifit3",
+          "stars": 3368,
+          "stars_today": 206
+        },
+        {
+          "full_name": "tester-army/e2e",
+          "stars": 13356,
+          "stars_today": 193
+        }
+      ]
     }
   ]
 }
