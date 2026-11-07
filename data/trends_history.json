@@ -1299,6 +1299,136 @@
           "stars_today": 193
         }
       ]
+    },
+    {
+      "date": "2026-11-07",
+      "repos": [
+        {
+          "full_name": "cloudflare/security-audit-skill",
+          "stars": 64494,
+          "stars_today": 2548
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "stars": 316983,
+          "stars_today": 2070
+        },
+        {
+          "full_name": "NVIDIA/auto-ontology",
+          "stars": 9389,
+          "stars_today": 2015
+        },
+        {
+          "full_name": "sherlock-project/sherlock",
+          "stars": 98922,
+          "stars_today": 1761
+        },
+        {
+          "full_name": "D4Vinci/Scrapling",
+          "stars": 98979,
+          "stars_today": 1324
+        },
+        {
+          "full_name": "stablyai/orca",
+          "stars": 118026,
+          "stars_today": 1155
+        },
+        {
+          "full_name": "microsoft/VibeVoice",
+          "stars": 56544,
+          "stars_today": 1004
+        },
+        {
+          "full_name": "vercel-labs/agent-browser",
+          "stars": 46349,
+          "stars_today": 622
+        },
+        {
+          "full_name": "google/skills",
+          "stars": 22969,
+          "stars_today": 534
+        },
+        {
+          "full_name": "ConardLi/garden-skills",
+          "stars": 14557,
+          "stars_today": 518
+        },
+        {
+          "full_name": "max-sixty/worktrunk",
+          "stars": 11841,
+          "stars_today": 422
+        },
+        {
+          "full_name": "Anil-matcha/Open-Generative-AI",
+          "stars": 32860,
+          "stars_today": 398
+        },
+        {
+          "full_name": "lz4/lz4",
+          "stars": 12657,
+          "stars_today": 315
+        },
+        {
+          "full_name": "zed-industries/zed",
+          "stars": 93875,
+          "stars_today": 306
+        },
+        {
+          "full_name": "microsoft/vscode",
+          "stars": 195086,
+          "stars_today": 301
+        },
+        {
+          "full_name": "react/react",
+          "stars": 252315,
+          "stars_today": 248
+        },
+        {
+          "full_name": "elder-plinius/T3MP3ST",
+          "stars": 6958,
+          "stars_today": 242
+        },
+        {
+          "full_name": "lobehub/lobehub",
+          "stars": 84278,
+          "stars_today": 209
+        },
+        {
+          "full_name": "kubernetes/kubernetes",
+          "stars": 128880,
+          "stars_today": 201
+        },
+        {
+          "full_name": "meta/astryx",
+          "stars": 14076,
+          "stars_today": 198
+        },
+        {
+          "full_name": "pandas-dev/pandas",
+          "stars": 50509,
+          "stars_today": 194
+        },
+        {
+          "full_name": "rust-lang/rust",
+          "stars": 121540,
+          "stars_today": 192
+        },
+        {
+          "full_name": "nodejs/node",
+          "stars": 123390,
+          "stars_today": 192
+        },
+        {
+          "full_name": "golang/go",
+          "stars": 139763,
+          "stars_today": 180
+        },
+        {
+          "full_name": "astral-sh/ruff",
+          "stars": 50764,
+          "stars_today": 169
+        }
+      ]
     }
   ]
 }
