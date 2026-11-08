@@ -1429,6 +1429,136 @@
           "stars_today": 169
         }
       ]
+    },
+    {
+      "date": "2026-11-08",
+      "repos": [
+        {
+          "full_name": "morluto/rea",
+          "stars": 441777,
+          "stars_today": 3286
+        },
+        {
+          "full_name": "cloudflare/security-audit-skill",
+          "stars": 66099,
+          "stars_today": 2085
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 17384,
+          "stars_today": 1955
+        },
+        {
+          "full_name": "sherlock-project/sherlock",
+          "stars": 101200,
+          "stars_today": 1766
+        },
+        {
+          "full_name": "NVIDIA/auto-ontology",
+          "stars": 9880,
+          "stars_today": 1155
+        },
+        {
+          "full_name": "zed-industries/zed",
+          "stars": 94372,
+          "stars_today": 1114
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "stars": 317989,
+          "stars_today": 1100
+        },
+        {
+          "full_name": "stablyai/orca",
+          "stars": 118790,
+          "stars_today": 931
+        },
+        {
+          "full_name": "google/skills",
+          "stars": 23548,
+          "stars_today": 443
+        },
+        {
+          "full_name": "anthropics/skills",
+          "stars": 188979,
+          "stars_today": 390
+        },
+        {
+          "full_name": "jamiepine/voicebox",
+          "stars": 60036,
+          "stars_today": 378
+        },
+        {
+          "full_name": "astral-sh/ruff",
+          "stars": 51043,
+          "stars_today": 350
+        },
+        {
+          "full_name": "rust-lang/rust",
+          "stars": 121610,
+          "stars_today": 346
+        },
+        {
+          "full_name": "microsoft/vscode",
+          "stars": 195165,
+          "stars_today": 325
+        },
+        {
+          "full_name": "prometheus/prometheus",
+          "stars": 67500,
+          "stars_today": 322
+        },
+        {
+          "full_name": "cheaper-inference/OmniRoute",
+          "stars": 85522,
+          "stars_today": 322
+        },
+        {
+          "full_name": "angular/angular",
+          "stars": 101466,
+          "stars_today": 305
+        },
+        {
+          "full_name": "react/react",
+          "stars": 252394,
+          "stars_today": 283
+        },
+        {
+          "full_name": "garrytan/gstack",
+          "stars": 140694,
+          "stars_today": 280
+        },
+        {
+          "full_name": "microsoft/VibeVoice",
+          "stars": 56729,
+          "stars_today": 245
+        },
+        {
+          "full_name": "JuliusBrussee/caveman",
+          "stars": 118209,
+          "stars_today": 205
+        },
+        {
+          "full_name": "donnemartin/system-design-primer",
+          "stars": 377290,
+          "stars_today": 192
+        },
+        {
+          "full_name": "ranxianglei/billion-context",
+          "stars": 4757,
+          "stars_today": 191
+        },
+        {
+          "full_name": "vercel-labs/agent-browser",
+          "stars": 47058,
+          "stars_today": 190
+        },
+        {
+          "full_name": "mbillow/localthings",
+          "stars": 1109,
+          "stars_today": 186
+        }
+      ]
     }
   ]
 }
