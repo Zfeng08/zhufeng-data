@@ -1559,6 +1559,136 @@
           "stars_today": 186
         }
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "repos": [
+        {
+          "full_name": "sherlock-project/sherlock",
+          "stars": 105208,
+          "stars_today": 2373
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 18919,
+          "stars_today": 1439
+        },
+        {
+          "full_name": "cloudflare/security-audit-skill",
+          "stars": 67257,
+          "stars_today": 1376
+        },
+        {
+          "full_name": "meta/astryx",
+          "stars": 17901,
+          "stars_today": 875
+        },
+        {
+          "full_name": "vercel-labs/agent-browser",
+          "stars": 47980,
+          "stars_today": 815
+        },
+        {
+          "full_name": "anthropics/skills",
+          "stars": 189983,
+          "stars_today": 792
+        },
+        {
+          "full_name": "jub0t/Concat",
+          "stars": 15962,
+          "stars_today": 488
+        },
+        {
+          "full_name": "ranxianglei/billion-context",
+          "stars": 5463,
+          "stars_today": 460
+        },
+        {
+          "full_name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 77905,
+          "stars_today": 449
+        },
+        {
+          "full_name": "Anil-matcha/Open-Generative-AI",
+          "stars": 33510,
+          "stars_today": 373
+        },
+        {
+          "full_name": "zed-industries/zed",
+          "stars": 94527,
+          "stars_today": 350
+        },
+        {
+          "full_name": "dsx-ai-factory/nvke",
+          "stars": 966,
+          "stars_today": 345
+        },
+        {
+          "full_name": "herdrdev/herdr",
+          "stars": 49554,
+          "stars_today": 345
+        },
+        {
+          "full_name": "storytold/artcraft",
+          "stars": 40055,
+          "stars_today": 335
+        },
+        {
+          "full_name": "hmjz100/LinkSwift",
+          "stars": 38948,
+          "stars_today": 334
+        },
+        {
+          "full_name": "tailwindlabs/tailwindcss",
+          "stars": 98653,
+          "stars_today": 332
+        },
+        {
+          "full_name": "astral-sh/ruff",
+          "stars": 51123,
+          "stars_today": 245
+        },
+        {
+          "full_name": "Albert-Weasker/niubigeo",
+          "stars": 10154,
+          "stars_today": 228
+        },
+        {
+          "full_name": "prometheus/prometheus",
+          "stars": 67574,
+          "stars_today": 213
+        },
+        {
+          "full_name": "jamiepine/voicebox",
+          "stars": 60200,
+          "stars_today": 208
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "stars": 103118,
+          "stars_today": 203
+        },
+        {
+          "full_name": "vercel-labs/json-render",
+          "stars": 19472,
+          "stars_today": 149
+        },
+        {
+          "full_name": "poco-ai/Agentero",
+          "stars": 2126,
+          "stars_today": 145
+        },
+        {
+          "full_name": "elie222/rakazo",
+          "stars": 7615,
+          "stars_today": 107
+        },
+        {
+          "full_name": "googlecolab/google-colab-cli",
+          "stars": 2101,
+          "stars_today": 104
+        }
+      ]
     }
   ]
 }
