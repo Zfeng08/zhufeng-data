@@ -1689,6 +1689,136 @@
           "stars_today": 104
         }
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "repos": [
+        {
+          "full_name": "sherlock-project/sherlock",
+          "stars": 107919,
+          "stars_today": 4267
+        },
+        {
+          "full_name": "meta/astryx",
+          "stars": 21066,
+          "stars_today": 3278
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 20195,
+          "stars_today": 1587
+        },
+        {
+          "full_name": "debpalash/VoiceStudio",
+          "stars": 106594,
+          "stars_today": 1262
+        },
+        {
+          "full_name": "anthropics/skills",
+          "stars": 191541,
+          "stars_today": 1038
+        },
+        {
+          "full_name": "vercel-labs/agent-browser",
+          "stars": 48783,
+          "stars_today": 916
+        },
+        {
+          "full_name": "ranxianglei/billion-context",
+          "stars": 5885,
+          "stars_today": 760
+        },
+        {
+          "full_name": "HKUDS/DeepTutor",
+          "stars": 57772,
+          "stars_today": 710
+        },
+        {
+          "full_name": "google-deepmind/mujoco",
+          "stars": 17102,
+          "stars_today": 574
+        },
+        {
+          "full_name": "anthropics/claude-quickstarts",
+          "stars": 20194,
+          "stars_today": 551
+        },
+        {
+          "full_name": "ZhuLinsen/daily_stock_analysis",
+          "stars": 69336,
+          "stars_today": 506
+        },
+        {
+          "full_name": "jub0t/Concat",
+          "stars": 16341,
+          "stars_today": 493
+        },
+        {
+          "full_name": "OpenBMB/VoxCPM",
+          "stars": 42159,
+          "stars_today": 387
+        },
+        {
+          "full_name": "storytold/artcraft",
+          "stars": 40380,
+          "stars_today": 378
+        },
+        {
+          "full_name": "dsx-ai-factory/nvke",
+          "stars": 1066,
+          "stars_today": 333
+        },
+        {
+          "full_name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 78194,
+          "stars_today": 326
+        },
+        {
+          "full_name": "Anil-matcha/Open-Generative-AI",
+          "stars": 33734,
+          "stars_today": 313
+        },
+        {
+          "full_name": "superplanehq/superplane",
+          "stars": 9533,
+          "stars_today": 228
+        },
+        {
+          "full_name": "hmjz100/LinkSwift",
+          "stars": 39155,
+          "stars_today": 222
+        },
+        {
+          "full_name": "garrytan/gbrain",
+          "stars": 32351,
+          "stars_today": 216
+        },
+        {
+          "full_name": "gosom/google-maps-scraper",
+          "stars": 7813,
+          "stars_today": 205
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "stars": 103719,
+          "stars_today": 172
+        },
+        {
+          "full_name": "OpenCut-app/OpenCut",
+          "stars": 97980,
+          "stars_today": 169
+        },
+        {
+          "full_name": "opensandbox-group/OpenSandbox",
+          "stars": 17038,
+          "stars_today": 168
+        },
+        {
+          "full_name": "longbridge/gpui-kit",
+          "stars": 20178,
+          "stars_today": 163
+        }
+      ]
     }
   ]
 }
