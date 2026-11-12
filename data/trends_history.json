@@ -1949,6 +1949,136 @@
           "stars_today": 192
         }
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "repos": [
+        {
+          "full_name": "meta/astryx",
+          "stars": 25672,
+          "stars_today": 2776
+        },
+        {
+          "full_name": "sherlock-project/sherlock",
+          "stars": 110328,
+          "stars_today": 1483
+        },
+        {
+          "full_name": "we-promise/sure",
+          "stars": 13282,
+          "stars_today": 1078
+        },
+        {
+          "full_name": "anthropics/skills",
+          "stars": 193356,
+          "stars_today": 1032
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 116219,
+          "stars_today": 787
+        },
+        {
+          "full_name": "ranxianglei/billion-context",
+          "stars": 6941,
+          "stars_today": 710
+        },
+        {
+          "full_name": "vercel-labs/agent-browser",
+          "stars": 50093,
+          "stars_today": 708
+        },
+        {
+          "full_name": "homeassistant-ai/ha-mcp",
+          "stars": 7585,
+          "stars_today": 645
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "stars": 68785,
+          "stars_today": 636
+        },
+        {
+          "full_name": "experientiallabs/experiential",
+          "stars": 16633,
+          "stars_today": 589
+        },
+        {
+          "full_name": "tokio-rs/topcoat",
+          "stars": 7137,
+          "stars_today": 451
+        },
+        {
+          "full_name": "anthropics/claude-quickstarts",
+          "stars": 20784,
+          "stars_today": 430
+        },
+        {
+          "full_name": "shadcn/improve",
+          "stars": 11228,
+          "stars_today": 361
+        },
+        {
+          "full_name": "ZhuLinsen/daily_stock_analysis",
+          "stars": 70824,
+          "stars_today": 278
+        },
+        {
+          "full_name": "soxoj/maigret",
+          "stars": 40441,
+          "stars_today": 260
+        },
+        {
+          "full_name": "garrytan/gbrain",
+          "stars": 32729,
+          "stars_today": 243
+        },
+        {
+          "full_name": "Anil-matcha/Open-Generative-AI",
+          "stars": 34203,
+          "stars_today": 238
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "stars": 104096,
+          "stars_today": 222
+        },
+        {
+          "full_name": "multica-ai/multica",
+          "stars": 55810,
+          "stars_today": 200
+        },
+        {
+          "full_name": "LibreSpark/LibreTV",
+          "stars": 24527,
+          "stars_today": 198
+        },
+        {
+          "full_name": "browser-use/browser-use",
+          "stars": 120791,
+          "stars_today": 172
+        },
+        {
+          "full_name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 2068,
+          "stars_today": 159
+        },
+        {
+          "full_name": "rustdesk/rustdesk",
+          "stars": 129126,
+          "stars_today": 157
+        },
+        {
+          "full_name": "dream-num/univer",
+          "stars": 23347,
+          "stars_today": 138
+        },
+        {
+          "full_name": "NapNeko/NapCatQQ",
+          "stars": 12730,
+          "stars_today": 129
+        }
+      ]
     }
   ]
 }
