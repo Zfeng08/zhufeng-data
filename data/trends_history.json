@@ -2079,6 +2079,136 @@
           "stars_today": 129
         }
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "repos": [
+        {
+          "full_name": "meta/astryx",
+          "stars": 26970,
+          "stars_today": 1830
+        },
+        {
+          "full_name": "ZhuLinsen/daily_stock_analysis",
+          "stars": 71163,
+          "stars_today": 1294
+        },
+        {
+          "full_name": "we-promise/sure",
+          "stars": 14242,
+          "stars_today": 967
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 116905,
+          "stars_today": 816
+        },
+        {
+          "full_name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 3805,
+          "stars_today": 739
+        },
+        {
+          "full_name": "homeassistant-ai/ha-mcp",
+          "stars": 7717,
+          "stars_today": 714
+        },
+        {
+          "full_name": "openai/codex-security",
+          "stars": 12709,
+          "stars_today": 643
+        },
+        {
+          "full_name": "vercel-labs/agent-browser",
+          "stars": 50458,
+          "stars_today": 604
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "stars": 69606,
+          "stars_today": 415
+        },
+        {
+          "full_name": "CopilotKit/OpenBot",
+          "stars": 11902,
+          "stars_today": 298
+        },
+        {
+          "full_name": "NVIDIA/SkillSpector",
+          "stars": 25755,
+          "stars_today": 297
+        },
+        {
+          "full_name": "pookjw/HermesEnabler",
+          "stars": 1666,
+          "stars_today": 218
+        },
+        {
+          "full_name": "coreyhaines31/marketingskills",
+          "stars": 60037,
+          "stars_today": 208
+        },
+        {
+          "full_name": "PurpleDoubleD/locally-uncensored",
+          "stars": 4122,
+          "stars_today": 197
+        },
+        {
+          "full_name": "Tencent/LoopForge",
+          "stars": 637,
+          "stars_today": 184
+        },
+        {
+          "full_name": "ggml-org/llama.cpp",
+          "stars": 134758,
+          "stars_today": 176
+        },
+        {
+          "full_name": "tailscale/tailcat",
+          "stars": 9129,
+          "stars_today": 173
+        },
+        {
+          "full_name": "n8n-io/n8n",
+          "stars": 210352,
+          "stars_today": 167
+        },
+        {
+          "full_name": "QwenLM/qwen-code",
+          "stars": 30028,
+          "stars_today": 151
+        },
+        {
+          "full_name": "multica-ai/multica",
+          "stars": 55979,
+          "stars_today": 148
+        },
+        {
+          "full_name": "every-app/open-seo",
+          "stars": 27541,
+          "stars_today": 145
+        },
+        {
+          "full_name": "laoma528/awesome-zhuiju-free",
+          "stars": 15454,
+          "stars_today": 131
+        },
+        {
+          "full_name": "OpenWhispr/openwhispr",
+          "stars": 11466,
+          "stars_today": 116
+        },
+        {
+          "full_name": "openai/whisper",
+          "stars": 112627,
+          "stars_today": 113
+        },
+        {
+          "full_name": "mksglu/context-mode",
+          "stars": 34012,
+          "stars_today": 113
+        }
+      ]
     }
   ]
 }
