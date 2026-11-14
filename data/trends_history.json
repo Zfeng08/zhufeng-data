@@ -2209,6 +2209,136 @@
           "stars_today": 113
         }
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "repos": [
+        {
+          "full_name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 5121,
+          "stars_today": 1925
+        },
+        {
+          "full_name": "we-promise/sure",
+          "stars": 14910,
+          "stars_today": 925
+        },
+        {
+          "full_name": "Leonxlnx/taste-skill",
+          "stars": 115199,
+          "stars_today": 795
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "stars": 69977,
+          "stars_today": 787
+        },
+        {
+          "full_name": "openai/codex-security",
+          "stars": 13295,
+          "stars_today": 751
+        },
+        {
+          "full_name": "CopilotKit/OpenBot",
+          "stars": 12161,
+          "stars_today": 674
+        },
+        {
+          "full_name": "DietrichGebert/ponytail",
+          "stars": 190496,
+          "stars_today": 600
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 117263,
+          "stars_today": 591
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 302574,
+          "stars_today": 559
+        },
+        {
+          "full_name": "QwenLM/qwen-code",
+          "stars": 30132,
+          "stars_today": 462
+        },
+        {
+          "full_name": "farion1231/cc-switch",
+          "stars": 154307,
+          "stars_today": 315
+        },
+        {
+          "full_name": "ZhuLinsen/daily_stock_analysis",
+          "stars": 71907,
+          "stars_today": 256
+        },
+        {
+          "full_name": "tailscale/tailcat",
+          "stars": 9590,
+          "stars_today": 256
+        },
+        {
+          "full_name": "Likely7/Veyra-NRVideo",
+          "stars": 1735,
+          "stars_today": 256
+        },
+        {
+          "full_name": "Gentleman-Programming/gentle-ai",
+          "stars": 9148,
+          "stars_today": 242
+        },
+        {
+          "full_name": "alibaba/open-code-review",
+          "stars": 50877,
+          "stars_today": 215
+        },
+        {
+          "full_name": "NVIDIA/SkillSpector",
+          "stars": 25934,
+          "stars_today": 190
+        },
+        {
+          "full_name": "coreyhaines31/marketingskills",
+          "stars": 60216,
+          "stars_today": 190
+        },
+        {
+          "full_name": "Tencent/LoopForge",
+          "stars": 681,
+          "stars_today": 174
+        },
+        {
+          "full_name": "kajisho5/ffmpeg-skill",
+          "stars": 5484,
+          "stars_today": 168
+        },
+        {
+          "full_name": "multica-ai/multica",
+          "stars": 56077,
+          "stars_today": 167
+        },
+        {
+          "full_name": "ModernRelay/omnigraph",
+          "stars": 2288,
+          "stars_today": 160
+        },
+        {
+          "full_name": "PurpleDoubleD/locally-uncensored",
+          "stars": 4208,
+          "stars_today": 148
+        },
+        {
+          "full_name": "rustdesk/rustdesk",
+          "stars": 129393,
+          "stars_today": 146
+        },
+        {
+          "full_name": "ollama/ollama",
+          "stars": 186921,
+          "stars_today": 141
+        }
+      ]
     }
   ]
 }
