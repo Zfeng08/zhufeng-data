@@ -2339,6 +2339,136 @@
           "stars_today": 141
         }
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "repos": [
+        {
+          "full_name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 6358,
+          "stars_today": 1231
+        },
+        {
+          "full_name": "alibaba/open-code-review",
+          "stars": 51609,
+          "stars_today": 893
+        },
+        {
+          "full_name": "ChromeDevTools/chrome-devtools-mcp",
+          "stars": 56501,
+          "stars_today": 664
+        },
+        {
+          "full_name": "we-promise/sure",
+          "stars": 15449,
+          "stars_today": 659
+        },
+        {
+          "full_name": "openai/codex-security",
+          "stars": 13571,
+          "stars_today": 595
+        },
+        {
+          "full_name": "tradermonty/claude-trading-skills",
+          "stars": 5040,
+          "stars_today": 553
+        },
+        {
+          "full_name": "dream-num/univer",
+          "stars": 25127,
+          "stars_today": 495
+        },
+        {
+          "full_name": "tailscale/tailcat",
+          "stars": 9874,
+          "stars_today": 488
+        },
+        {
+          "full_name": "louislam/uptime-kuma",
+          "stars": 94340,
+          "stars_today": 430
+        },
+        {
+          "full_name": "Likely7/Veyra-NRVideo",
+          "stars": 2449,
+          "stars_today": 420
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 117683,
+          "stars_today": 411
+        },
+        {
+          "full_name": "backnotprop/plannotator",
+          "stars": 11401,
+          "stars_today": 408
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "stars": 70344,
+          "stars_today": 366
+        },
+        {
+          "full_name": "block/buzz",
+          "stars": 37457,
+          "stars_today": 277
+        },
+        {
+          "full_name": "martin-olivier/airgorah",
+          "stars": 6058,
+          "stars_today": 270
+        },
+        {
+          "full_name": "JuliusBrussee/caveman",
+          "stars": 120216,
+          "stars_today": 227
+        },
+        {
+          "full_name": "ModernRelay/omnigraph",
+          "stars": 2478,
+          "stars_today": 217
+        },
+        {
+          "full_name": "CopilotKit/OpenBot",
+          "stars": 12318,
+          "stars_today": 206
+        },
+        {
+          "full_name": "anthropics/claude-plugins-official",
+          "stars": 47329,
+          "stars_today": 136
+        },
+        {
+          "full_name": "NVIDIA/SkillEvaluator",
+          "stars": 1282,
+          "stars_today": 133
+        },
+        {
+          "full_name": "LibreTranslate/LibreTranslate",
+          "stars": 17732,
+          "stars_today": 130
+        },
+        {
+          "full_name": "elementalsouls/Claude-BugHunter",
+          "stars": 5867,
+          "stars_today": 124
+        },
+        {
+          "full_name": "andrewyng/openworker",
+          "stars": 19258,
+          "stars_today": 100
+        },
+        {
+          "full_name": "headroomlabs-ai/headroom",
+          "stars": 79687,
+          "stars_today": 93
+        },
+        {
+          "full_name": "FujiwaraChoki/supoclip",
+          "stars": 3139,
+          "stars_today": 88
+        }
+      ]
     }
   ]
 }
