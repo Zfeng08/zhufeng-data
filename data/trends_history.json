@@ -2599,6 +2599,136 @@
           "stars_today": 98
         }
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "repos": [
+        {
+          "full_name": "dream-num/univer",
+          "stars": 28581,
+          "stars_today": 1828
+        },
+        {
+          "full_name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 8208,
+          "stars_today": 1200
+        },
+        {
+          "full_name": "elementalsouls/Claude-BugHunter",
+          "stars": 7887,
+          "stars_today": 1094
+        },
+        {
+          "full_name": "Tencent/LoopForge",
+          "stars": 2573,
+          "stars_today": 1020
+        },
+        {
+          "full_name": "alibaba/open-code-review",
+          "stars": 53277,
+          "stars_today": 951
+        },
+        {
+          "full_name": "NVIDIA/SkillEvaluator",
+          "stars": 3093,
+          "stars_today": 873
+        },
+        {
+          "full_name": "ChromeDevTools/chrome-devtools-mcp",
+          "stars": 57892,
+          "stars_today": 841
+        },
+        {
+          "full_name": "tradermonty/claude-trading-skills",
+          "stars": 6660,
+          "stars_today": 837
+        },
+        {
+          "full_name": "ag-ui-protocol/ag-ui",
+          "stars": 19661,
+          "stars_today": 791
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 304891,
+          "stars_today": 718
+        },
+        {
+          "full_name": "backnotprop/plannotator",
+          "stars": 12842,
+          "stars_today": 696
+        },
+        {
+          "full_name": "google-labs-code/stitch-skills",
+          "stars": 9877,
+          "stars_today": 529
+        },
+        {
+          "full_name": "kajisho5/ffmpeg-skill",
+          "stars": 7370,
+          "stars_today": 367
+        },
+        {
+          "full_name": "google-research/paper-orchestra",
+          "stars": 1987,
+          "stars_today": 313
+        },
+        {
+          "full_name": "ifixai-ai/iFixAi",
+          "stars": 46188,
+          "stars_today": 311
+        },
+        {
+          "full_name": "DeanChensj/jiangshan-map",
+          "stars": 7487,
+          "stars_today": 288
+        },
+        {
+          "full_name": "elie222/rakazo",
+          "stars": 8923,
+          "stars_today": 266
+        },
+        {
+          "full_name": "hieunc229/mailflare",
+          "stars": 6740,
+          "stars_today": 254
+        },
+        {
+          "full_name": "bilawalsidhu/gods-eye-view",
+          "stars": 65355,
+          "stars_today": 253
+        },
+        {
+          "full_name": "martin-olivier/airgorah",
+          "stars": 6542,
+          "stars_today": 243
+        },
+        {
+          "full_name": "ModernRelay/omnigraph",
+          "stars": 2886,
+          "stars_today": 219
+        },
+        {
+          "full_name": "rust-lang/rust",
+          "stars": 122126,
+          "stars_today": 159
+        },
+        {
+          "full_name": "maillab/cloud-mail",
+          "stars": 16319,
+          "stars_today": 146
+        },
+        {
+          "full_name": "mvanhorn/last30days-skill",
+          "stars": 68457,
+          "stars_today": 135
+        },
+        {
+          "full_name": "huggingface/transformers",
+          "stars": 169117,
+          "stars_today": 132
+        }
+      ]
     }
   ]
 }
