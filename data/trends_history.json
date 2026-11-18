@@ -2729,6 +2729,136 @@
           "stars_today": 132
         }
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "repos": [
+        {
+          "full_name": "obra/superpowers",
+          "stars": 319611,
+          "stars_today": 1917
+        },
+        {
+          "full_name": "dream-num/univer",
+          "stars": 29665,
+          "stars_today": 1774
+        },
+        {
+          "full_name": "ag-ui-protocol/ag-ui",
+          "stars": 20207,
+          "stars_today": 1445
+        },
+        {
+          "full_name": "kajisho5/ffmpeg-skill",
+          "stars": 7870,
+          "stars_today": 1292
+        },
+        {
+          "full_name": "google-research/paper-orchestra",
+          "stars": 3492,
+          "stars_today": 1072
+        },
+        {
+          "full_name": "stablyai/orca",
+          "stars": 128274,
+          "stars_today": 1066
+        },
+        {
+          "full_name": "elementalsouls/Claude-BugHunter",
+          "stars": 10100,
+          "stars_today": 1005
+        },
+        {
+          "full_name": "DeanChensj/jiangshan-map",
+          "stars": 7736,
+          "stars_today": 991
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 305908,
+          "stars_today": 883
+        },
+        {
+          "full_name": "NVIDIA/SkillEvaluator",
+          "stars": 3425,
+          "stars_today": 869
+        },
+        {
+          "full_name": "DietrichGebert/ponytail",
+          "stars": 193517,
+          "stars_today": 862
+        },
+        {
+          "full_name": "alibaba/open-code-review",
+          "stars": 54014,
+          "stars_today": 763
+        },
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 112487,
+          "stars_today": 748
+        },
+        {
+          "full_name": "tradermonty/claude-trading-skills",
+          "stars": 6950,
+          "stars_today": 703
+        },
+        {
+          "full_name": "mvanhorn/last30days-skill",
+          "stars": 69457,
+          "stars_today": 696
+        },
+        {
+          "full_name": "backnotprop/plannotator",
+          "stars": 13216,
+          "stars_today": 691
+        },
+        {
+          "full_name": "Graphify-Labs/graphify",
+          "stars": 149839,
+          "stars_today": 649
+        },
+        {
+          "full_name": "milind-soni/OpenMausBot",
+          "stars": 25047,
+          "stars_today": 640
+        },
+        {
+          "full_name": "getarcaneapp/arcane",
+          "stars": 9523,
+          "stars_today": 618
+        },
+        {
+          "full_name": "tashfeenahmed/freellmapi",
+          "stars": 54240,
+          "stars_today": 613
+        },
+        {
+          "full_name": "Tencent/LoopForge",
+          "stars": 3634,
+          "stars_today": 591
+        },
+        {
+          "full_name": "DuarteSantos8/openGym",
+          "stars": 22618,
+          "stars_today": 487
+        },
+        {
+          "full_name": "ChromeDevTools/chrome-devtools-mcp",
+          "stars": 58126,
+          "stars_today": 478
+        },
+        {
+          "full_name": "sveltejs/svelte",
+          "stars": 89593,
+          "stars_today": 477
+        },
+        {
+          "full_name": "antithesishq/bombadil",
+          "stars": 2636,
+          "stars_today": 380
+        }
+      ]
     }
   ]
 }
