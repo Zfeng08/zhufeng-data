@@ -2859,6 +2859,136 @@
           "stars_today": 380
         }
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "repos": [
+        {
+          "full_name": "google-research/paper-orchestra",
+          "stars": 4682,
+          "stars_today": 1524
+        },
+        {
+          "full_name": "pingdotgg/t3code",
+          "stars": 65684,
+          "stars_today": 1220
+        },
+        {
+          "full_name": "dream-num/univer",
+          "stars": 30221,
+          "stars_today": 1152
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 306835,
+          "stars_today": 1108
+        },
+        {
+          "full_name": "mvanhorn/last30days-skill",
+          "stars": 70391,
+          "stars_today": 1059
+        },
+        {
+          "full_name": "obra/superpowers",
+          "stars": 321568,
+          "stars_today": 822
+        },
+        {
+          "full_name": "Tencent/LoopForge",
+          "stars": 3961,
+          "stars_today": 821
+        },
+        {
+          "full_name": "Leonxlnx/taste-skill",
+          "stars": 118639,
+          "stars_today": 737
+        },
+        {
+          "full_name": "sveltejs/svelte",
+          "stars": 89725,
+          "stars_today": 692
+        },
+        {
+          "full_name": "jingyaogong/minimind",
+          "stars": 66589,
+          "stars_today": 687
+        },
+        {
+          "full_name": "alibaba/open-code-review",
+          "stars": 54266,
+          "stars_today": 622
+        },
+        {
+          "full_name": "getarcaneapp/arcane",
+          "stars": 10003,
+          "stars_today": 547
+        },
+        {
+          "full_name": "p-e-w/heretic",
+          "stars": 42077,
+          "stars_today": 515
+        },
+        {
+          "full_name": "ag-ui-protocol/ag-ui",
+          "stars": 20535,
+          "stars_today": 513
+        },
+        {
+          "full_name": "XiaoYouChR/Ghost-Downloader-3",
+          "stars": 12240,
+          "stars_today": 432
+        },
+        {
+          "full_name": "backnotprop/plannotator",
+          "stars": 13552,
+          "stars_today": 392
+        },
+        {
+          "full_name": "HKUDS/CLI-Anything",
+          "stars": 60105,
+          "stars_today": 389
+        },
+        {
+          "full_name": "agent-substrate/substrate",
+          "stars": 7692,
+          "stars_today": 377
+        },
+        {
+          "full_name": "google-labs-code/stitch-skills",
+          "stars": 10537,
+          "stars_today": 365
+        },
+        {
+          "full_name": "kajisho5/ffmpeg-skill",
+          "stars": 8101,
+          "stars_today": 338
+        },
+        {
+          "full_name": "n8n-io/n8n",
+          "stars": 211311,
+          "stars_today": 325
+        },
+        {
+          "full_name": "cursor/plugins",
+          "stars": 17372,
+          "stars_today": 314
+        },
+        {
+          "full_name": "NVIDIA/SkillEvaluator",
+          "stars": 3954,
+          "stars_today": 312
+        },
+        {
+          "full_name": "jquery/jquery",
+          "stars": 60083,
+          "stars_today": 266
+        },
+        {
+          "full_name": "astral-sh/uv",
+          "stars": 92353,
+          "stars_today": 258
+        }
+      ]
     }
   ]
 }
