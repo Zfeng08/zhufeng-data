@@ -2989,6 +2989,136 @@
           "stars_today": 258
         }
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "repos": [
+        {
+          "full_name": "obra/superpowers",
+          "stars": 322386,
+          "stars_today": 2028
+        },
+        {
+          "full_name": "elementalsouls/Claude-BugHunter",
+          "stars": 13145,
+          "stars_today": 1349
+        },
+        {
+          "full_name": "google-research/paper-orchestra",
+          "stars": 5208,
+          "stars_today": 1196
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 307443,
+          "stars_today": 959
+        },
+        {
+          "full_name": "mvanhorn/last30days-skill",
+          "stars": 71072,
+          "stars_today": 954
+        },
+        {
+          "full_name": "HKUDS/CLI-Anything",
+          "stars": 60854,
+          "stars_today": 898
+        },
+        {
+          "full_name": "DietrichGebert/ponytail",
+          "stars": 195140,
+          "stars_today": 878
+        },
+        {
+          "full_name": "firecrawl/firecrawl",
+          "stars": 204615,
+          "stars_today": 825
+        },
+        {
+          "full_name": "getarcaneapp/arcane",
+          "stars": 10157,
+          "stars_today": 497
+        },
+        {
+          "full_name": "solidjs/solid",
+          "stars": 36844,
+          "stars_today": 459
+        },
+        {
+          "full_name": "microsoft/markitdown",
+          "stars": 197123,
+          "stars_today": 434
+        },
+        {
+          "full_name": "cursor/plugins",
+          "stars": 17665,
+          "stars_today": 384
+        },
+        {
+          "full_name": "mjmirza/app-store-compliance",
+          "stars": 2244,
+          "stars_today": 377
+        },
+        {
+          "full_name": "XiaoYouChR/Ghost-Downloader-3",
+          "stars": 13201,
+          "stars_today": 341
+        },
+        {
+          "full_name": "appwrite/appwrite",
+          "stars": 58421,
+          "stars_today": 325
+        },
+        {
+          "full_name": "sveltejs/svelte",
+          "stars": 89823,
+          "stars_today": 321
+        },
+        {
+          "full_name": "google-labs-code/stitch-skills",
+          "stars": 10841,
+          "stars_today": 302
+        },
+        {
+          "full_name": "Tencent/LoopForge",
+          "stars": 5160,
+          "stars_today": 276
+        },
+        {
+          "full_name": "cathrynlavery/diagram-design",
+          "stars": 68900,
+          "stars_today": 271
+        },
+        {
+          "full_name": "p-e-w/heretic",
+          "stars": 42267,
+          "stars_today": 252
+        },
+        {
+          "full_name": "anomalyco/opencode",
+          "stars": 228127,
+          "stars_today": 249
+        },
+        {
+          "full_name": "openvinotoolkit/openvino",
+          "stars": 11641,
+          "stars_today": 246
+        },
+        {
+          "full_name": "Imbad0202/academic-research-skills",
+          "stars": 57831,
+          "stars_today": 244
+        },
+        {
+          "full_name": "agent-substrate/substrate",
+          "stars": 7879,
+          "stars_today": 244
+        },
+        {
+          "full_name": "jingyaogong/minimind",
+          "stars": 67334,
+          "stars_today": 238
+        }
+      ]
     }
   ]
 }
