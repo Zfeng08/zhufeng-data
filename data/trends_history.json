@@ -1,136 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-10-29",
-      "repos": [
-        {
-          "full_name": "HKUDS/DeepTutor",
-          "stars": 48658,
-          "stars_today": 2371
-        },
-        {
-          "full_name": "elayadesign/ai-design-skills",
-          "stars": 11473,
-          "stars_today": 2139
-        },
-        {
-          "full_name": "Nutlope/hallmark",
-          "stars": 41131,
-          "stars_today": 2110
-        },
-        {
-          "full_name": "debpalash/VoiceStudio",
-          "stars": 93385,
-          "stars_today": 1793
-        },
-        {
-          "full_name": "hmjz100/LinkSwift",
-          "stars": 35603,
-          "stars_today": 1616
-        },
-        {
-          "full_name": "togg53192-cmd/jailbreaks",
-          "stars": 7589,
-          "stars_today": 1477
-        },
-        {
-          "full_name": "pbakaus/impeccable",
-          "stars": 93576,
-          "stars_today": 1472
-        },
-        {
-          "full_name": "YuJunZhiXue/dsh-purge",
-          "stars": 12505,
-          "stars_today": 1128
-        },
-        {
-          "full_name": "obra/superpowers",
-          "stars": 307701,
-          "stars_today": 1095
-        },
-        {
-          "full_name": "JetBrains/thinkrail",
-          "stars": 5448,
-          "stars_today": 1068
-        },
-        {
-          "full_name": "nightly-labs/openbot",
-          "stars": 3471,
-          "stars_today": 1054
-        },
-        {
-          "full_name": "affaan-m/ECC",
-          "stars": 292025,
-          "stars_today": 999
-        },
-        {
-          "full_name": "gitroomhq/postiz-app",
-          "stars": 40029,
-          "stars_today": 893
-        },
-        {
-          "full_name": "heygen-com/hyperframes",
-          "stars": 74964,
-          "stars_today": 846
-        },
-        {
-          "full_name": "makecindy/cindy",
-          "stars": 8337,
-          "stars_today": 728
-        },
-        {
-          "full_name": "Leonxlnx/taste-skill",
-          "stars": 104836,
-          "stars_today": 709
-        },
-        {
-          "full_name": "TauricResearch/TradingAgents",
-          "stars": 118030,
-          "stars_today": 654
-        },
-        {
-          "full_name": "AgriciDaniel/claude-seo",
-          "stars": 23560,
-          "stars_today": 581
-        },
-        {
-          "full_name": "ruvnet/RuView",
-          "stars": 101313,
-          "stars_today": 557
-        },
-        {
-          "full_name": "KeygraphHQ/shannon",
-          "stars": 50234,
-          "stars_today": 476
-        },
-        {
-          "full_name": "baidu/Unlimited-OCR",
-          "stars": 29620,
-          "stars_today": 429
-        },
-        {
-          "full_name": "Alishahryar1/free-claude-code",
-          "stars": 64708,
-          "stars_today": 400
-        },
-        {
-          "full_name": "github/spec-kit",
-          "stars": 143748,
-          "stars_today": 361
-        },
-        {
-          "full_name": "addyosmani/agent-skills",
-          "stars": 111538,
-          "stars_today": 347
-        },
-        {
-          "full_name": "thedotmack/claude-mem",
-          "stars": 104124,
-          "stars_today": 324
-        }
-      ]
-    },
-    {
       "date": "2026-10-30",
       "repos": [
         {
@@ -3897,6 +3767,136 @@
           "full_name": "nginx/nginx",
           "stars": 33581,
           "stars_today": 150
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "repos": [
+        {
+          "full_name": "elementalsouls/Claude-BugHunter",
+          "stars": 26543,
+          "stars_today": 1608
+        },
+        {
+          "full_name": "obra/superpowers",
+          "stars": 328598,
+          "stars_today": 922
+        },
+        {
+          "full_name": "XiaoYouChR/Ghost-Downloader-3",
+          "stars": 20129,
+          "stars_today": 836
+        },
+        {
+          "full_name": "firecrawl/firecrawl",
+          "stars": 211906,
+          "stars_today": 822
+        },
+        {
+          "full_name": "cathrynlavery/diagram-design",
+          "stars": 74622,
+          "stars_today": 725
+        },
+        {
+          "full_name": "zhouxiaoka/autoclip",
+          "stars": 17789,
+          "stars_today": 718
+        },
+        {
+          "full_name": "DietrichGebert/ponytail",
+          "stars": 200366,
+          "stars_today": 713
+        },
+        {
+          "full_name": "mvanhorn/last30days-skill",
+          "stars": 76523,
+          "stars_today": 675
+        },
+        {
+          "full_name": "HKUDS/CLI-Anything",
+          "stars": 67173,
+          "stars_today": 666
+        },
+        {
+          "full_name": "jingyaogong/minimind",
+          "stars": 72363,
+          "stars_today": 660
+        },
+        {
+          "full_name": "github/spec-kit",
+          "stars": 152452,
+          "stars_today": 633
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 312074,
+          "stars_today": 570
+        },
+        {
+          "full_name": "mjmirza/app-store-compliance",
+          "stars": 8125,
+          "stars_today": 530
+        },
+        {
+          "full_name": "toeverything/AFFiNE",
+          "stars": 79610,
+          "stars_today": 474
+        },
+        {
+          "full_name": "Tracer-Cloud/opensre",
+          "stars": 16225,
+          "stars_today": 328
+        },
+        {
+          "full_name": "google-labs-code/stitch-skills",
+          "stars": 13688,
+          "stars_today": 311
+        },
+        {
+          "full_name": "superdesigndev/treg",
+          "stars": 9833,
+          "stars_today": 282
+        },
+        {
+          "full_name": "anomalyco/opencode",
+          "stars": 229686,
+          "stars_today": 277
+        },
+        {
+          "full_name": "cursor/plugins",
+          "stars": 20078,
+          "stars_today": 243
+        },
+        {
+          "full_name": "earendil-works/pi",
+          "stars": 124418,
+          "stars_today": 235
+        },
+        {
+          "full_name": "rustdesk/rustdesk",
+          "stars": 131891,
+          "stars_today": 224
+        },
+        {
+          "full_name": "NYLLON-SOFTWARE/SignuDoc",
+          "stars": 3611,
+          "stars_today": 197
+        },
+        {
+          "full_name": "phone-harness/phone-harness",
+          "stars": 6208,
+          "stars_today": 187
+        },
+        {
+          "full_name": "lbjlaq/Antigravity-Manager",
+          "stars": 34412,
+          "stars_today": 183
+        },
+        {
+          "full_name": "microsoft/markitdown",
+          "stars": 198802,
+          "stars_today": 167
         }
       ]
     }
